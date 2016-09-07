@@ -5,12 +5,13 @@
 	
 	"maximo-options": {
 		"protocol": "http",
-		"hostname": "maximo",
-		"port": "80",
+		"hostname": "184.170.233.82/maximo",
+		"port": "1883",
 		"user": "maxadmin",
 		"password": "maxadmin",
 		"auth_scheme": "maxadmin",
-		"authtype": "admin",
+		"authtype": "maxadmin",
 		"islean": 1
 	}
 }
+
