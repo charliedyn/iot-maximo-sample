@@ -8,14 +8,14 @@
 		"label": "iotf-service",
 		"plan": "iotf-service-free",
 		"credentials": {
-			"mqtt_host": "<carlos_gutierrez@itconsol.com>.messaging.internetofthings.ibmcloud.com",
+			"mqtt_host": "e97udg.messaging.internetofthings.ibmcloud.com",
 			"mqtt_u_port": 1883,
 			"mqtt_s_port": 8883,
-			"base_uri": "https://<carlos_gutierrez@itconsol.com>.internetofthings.ibmcloud.com:443/api/v0001",
-			"http_host": "<carlos_gutierrez@itconsol.com>.internetofthings.ibmcloud.com",
-			"org": "<ORG>",
-			"apiKey": "a-<ORG>-<KEY>",
-			"apiToken": "<PASSWORD>"
+			"base_uri": "e97udg.internetofthings.ibmcloud.com:443/api/v0001",
+			"http_host": "e97udg.internetofthings.ibmcloud.com",
+			"org": "e97udg",
+			"apiKey": "a-e97udg-bilfyvezav",
+			"apiToken": "V7c*S*_Rdw9AYEEagK"
 		}
 	}],
 	
