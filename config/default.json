@@ -8,11 +8,11 @@
 		"label": "iotf-service",
 		"plan": "iotf-service-free",
 		"credentials": {
-			"mqtt_host": "<ORG>.messaging.internetofthings.ibmcloud.com",
+			"mqtt_host": "<carlos_gutierrez@itconsol.com>.messaging.internetofthings.ibmcloud.com",
 			"mqtt_u_port": 1883,
 			"mqtt_s_port": 8883,
-			"base_uri": "https://<ORG>.internetofthings.ibmcloud.com:443/api/v0001",
-			"http_host": "<ORG>.internetofthings.ibmcloud.com",
+			"base_uri": "https://<carlos_gutierrez@itconsol.com>.internetofthings.ibmcloud.com:443/api/v0001",
+			"http_host": "<carlos_gutierrez@itconsol.com>.internetofthings.ibmcloud.com",
 			"org": "<ORG>",
 			"apiKey": "a-<ORG>-<KEY>",
 			"apiToken": "<PASSWORD>"
@@ -20,13 +20,13 @@
 	}],
 	
 	"maximo-options": {
-		"protocol": "",
-		"hostname": "",
-		"port": "",
-		"user": "",
-		"password": "",
-		"auth_scheme": "",
-		"authtype": "",
+		"protocol": "http",
+		"hostname": "184.170.233.82/maximo",
+		"port": "1883",
+		"user": "maxadmin",
+		"password": "maxadmin",
+		"auth_scheme": "maxadmin",
+		"authtype": "maxadmin",
 		"islean": 1
 	}
 }
